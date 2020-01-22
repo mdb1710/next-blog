@@ -1,6 +1,8 @@
 import Layout from "../components/layout";
 import PostLink from "../components/postlink";
 
+import "../styles/index.scss";
+
 const Home = () => {
   return (
     <Layout>
